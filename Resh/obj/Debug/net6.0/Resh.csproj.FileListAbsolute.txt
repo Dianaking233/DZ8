@@ -1,0 +1,15 @@
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\bin\Debug\net6.0\Resh.exe
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\bin\Debug\net6.0\Resh.deps.json
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\bin\Debug\net6.0\Resh.runtimeconfig.json
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\bin\Debug\net6.0\Resh.dll
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\bin\Debug\net6.0\Resh.pdb
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\Resh.csproj.AssemblyReference.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\Resh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\Resh.AssemblyInfoInputs.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\Resh.AssemblyInfo.cs
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\Resh.csproj.CoreCompileInputs.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\Resh.dll
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\refint\Resh.dll
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\Resh.pdb
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\Resh.genruntimeconfig.cache
+C:\Users\Pokem\OneDrive\Рабочий стол\GB\Cless1\CSeminar\DZ8\Resh\obj\Debug\net6.0\ref\Resh.dll
